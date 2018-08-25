@@ -1,0 +1,5 @@
+git init # 初始化仓库
+git add # 添加到仓库
+git commit # 将文件提交到仓库
+git status # 查看工作区状态
+git diff # 查看文件差异
